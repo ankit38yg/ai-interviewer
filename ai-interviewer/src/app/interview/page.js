@@ -155,7 +155,7 @@ function InterviewPageContent() {
   if (!browserSupportsSpeechRecognition) {
     return (
       <div className="text-white">
-        Browser doesn't support speech recognition.
+        {"Browser doesn't support speech recognition."}
       </div>
     );
   }
