@@ -224,7 +224,7 @@ export default function InterviewSetup() {
         </div>
       </div>
       <footer className="text-center mt-8 text-gray-500 text-sm">
-        <p>&copy; 2025 AI Interviewer. Built with Next.js & Gemini.</p>
+        <p>&copy; 2025 AI Interviewer. Built By Ankit Yadav</p>
       </footer>
     </div>
   );
